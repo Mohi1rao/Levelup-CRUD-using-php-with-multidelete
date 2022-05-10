@@ -1,5 +1,5 @@
 # Levelup-CRUD-using-php
-This is a CRUD operation using php and Mysql database. In this when we add(CREATE) new user we need to submit add data in one form only in frontenf but in backend the data is storing in two different tables this is done using foreign key in Mysql.
+This is a CRUD operation using php and Mysql database. In this when we add(CREATE) new user we need to submit add data in one form only in frontenf but in backend the data is storing in two different tables this is done using foreign key in Mysql. Multidelete button is alse added with javascript alert before delete.
 
 What is CRUD?
 If you are new to programming, seeing “CRUD” in the title may raise concerns considering that the Merriam-Webster dictionary defines crud as either “a deposit or incrustation of grease or a slang for a contemptible person.” As fun as it may be to expand on that definition, this is not what we will be expanding on for this article. In the computer programming world, CRUD is an acronym worth knowing. We will review what CRUD operations (aka CRUD functionalities) are and why it is an important fundamental to learn early on.
